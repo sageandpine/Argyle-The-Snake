@@ -6,6 +6,6 @@
 # Made using the Python Turtle Package
 
 # To do---
-# -Add High Scores
+# -Add High Scores for multiplayer
 # -Add player names
 # -Adjust Borders to be more precise
